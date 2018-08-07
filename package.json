@@ -1,0 +1,24 @@
+{
+  "name": "devops-pubquiz",
+  "version": "1.0.0",
+  "description": "An online DevOps Pub Quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswood123/devops-pubquiz.git"
+  },
+  "author": "Chris Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriswood123/devops-pubquiz/issues"
+  },
+  "homepage": "https://github.com/chriswood123/devops-pubquiz#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
